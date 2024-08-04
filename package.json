@@ -1,7 +1,7 @@
 {
   "name": "dos-app-test",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "./src/index.js",
   "repository": "https://github.com/soycmramos/dos-app-test",
   "author": "cmramos <cmramos@bancolombia.com.co>",
   "license": "MIT",
